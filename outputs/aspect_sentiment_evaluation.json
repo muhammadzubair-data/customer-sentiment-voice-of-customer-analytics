@@ -1,0 +1,6 @@
+{
+  "approach_a_keyword_vader_agreement": 0.4659757198171708,
+  "approach_b_phrase_lexicon_agreement": 0.9997787417392063,
+  "recommended_approach": "B (phrase lexicon)",
+  "production_note": "Real-world deployments would need either a continuously curated aspect-phrase lexicon or a fine-tuned ABSA classifier (e.g. spaCy + custom NER, or a transformer ABSA model) since customer language varies far more than this synthetic template set."
+}

@@ -1,0 +1,151 @@
+product_id,category,price,quality_risk
+PROD-0001,Sports & Outdoors,25.86,normal
+PROD-0002,Pet Supplies,114.55,normal
+PROD-0003,Electronics,19.45,normal
+PROD-0004,Home & Kitchen,17.78,normal
+PROD-0005,Apparel,41.67,normal
+PROD-0006,Beauty,3.79,normal
+PROD-0007,Office Supplies,15.93,normal
+PROD-0008,Office Supplies,22.69,normal
+PROD-0009,Electronics,47.09,normal
+PROD-0010,Apparel,56.68,normal
+PROD-0011,Toys & Games,67.17,normal
+PROD-0012,Sports & Outdoors,18.81,elevated
+PROD-0013,Beauty,12.64,normal
+PROD-0014,Toys & Games,25.87,high
+PROD-0015,Pet Supplies,19.31,normal
+PROD-0016,Electronics,5.43,normal
+PROD-0017,Sports & Outdoors,28.43,normal
+PROD-0018,Pet Supplies,10.77,normal
+PROD-0019,Apparel,19.99,normal
+PROD-0020,Pet Supplies,18.92,normal
+PROD-0021,Home & Kitchen,168.58,normal
+PROD-0022,Apparel,55.12,normal
+PROD-0023,Electronics,43.68,normal
+PROD-0024,Home & Kitchen,58.84,normal
+PROD-0025,Home & Kitchen,17.97,normal
+PROD-0026,Sports & Outdoors,8.01,normal
+PROD-0027,Apparel,3.51,normal
+PROD-0028,Electronics,39.92,normal
+PROD-0029,Toys & Games,40.39,normal
+PROD-0030,Toys & Games,12.38,normal
+PROD-0031,Home & Kitchen,13.83,normal
+PROD-0032,Sports & Outdoors,11.93,normal
+PROD-0033,Pet Supplies,11.95,normal
+PROD-0034,Toys & Games,15.58,normal
+PROD-0035,Home & Kitchen,33.2,elevated
+PROD-0036,Office Supplies,63.81,normal
+PROD-0037,Pet Supplies,24.01,normal
+PROD-0038,Apparel,76.69,normal
+PROD-0039,Toys & Games,207.32,normal
+PROD-0040,Beauty,35.15,normal
+PROD-0041,Office Supplies,23.21,normal
+PROD-0042,Electronics,3.02,normal
+PROD-0043,Office Supplies,42.25,normal
+PROD-0044,Beauty,25.95,elevated
+PROD-0045,Apparel,26.54,normal
+PROD-0046,Pet Supplies,20.08,normal
+PROD-0047,Beauty,16.59,normal
+PROD-0048,Apparel,9.98,normal
+PROD-0049,Apparel,50.74,elevated
+PROD-0050,Sports & Outdoors,2.14,normal
+PROD-0051,Office Supplies,36.56,elevated
+PROD-0052,Beauty,6.27,normal
+PROD-0053,Home & Kitchen,77.57,normal
+PROD-0054,Apparel,18.18,normal
+PROD-0055,Office Supplies,40.59,normal
+PROD-0056,Beauty,29.14,elevated
+PROD-0057,Home & Kitchen,71.9,normal
+PROD-0058,Electronics,129.09,normal
+PROD-0059,Home & Kitchen,69.65,elevated
+PROD-0060,Beauty,42.81,normal
+PROD-0061,Pet Supplies,19.0,elevated
+PROD-0062,Pet Supplies,37.97,normal
+PROD-0063,Beauty,61.91,normal
+PROD-0064,Home & Kitchen,17.33,normal
+PROD-0065,Home & Kitchen,26.09,normal
+PROD-0066,Toys & Games,12.35,normal
+PROD-0067,Apparel,53.53,elevated
+PROD-0068,Beauty,38.52,normal
+PROD-0069,Apparel,7.82,normal
+PROD-0070,Apparel,33.25,normal
+PROD-0071,Office Supplies,20.58,normal
+PROD-0072,Electronics,27.51,normal
+PROD-0073,Office Supplies,13.06,normal
+PROD-0074,Beauty,80.3,elevated
+PROD-0075,Apparel,13.61,elevated
+PROD-0076,Pet Supplies,166.17,normal
+PROD-0077,Electronics,28.07,normal
+PROD-0078,Toys & Games,18.84,normal
+PROD-0079,Pet Supplies,36.75,elevated
+PROD-0080,Apparel,32.4,elevated
+PROD-0081,Pet Supplies,145.72,elevated
+PROD-0082,Apparel,37.27,normal
+PROD-0083,Toys & Games,4.62,normal
+PROD-0084,Beauty,13.86,normal
+PROD-0085,Office Supplies,50.87,normal
+PROD-0086,Pet Supplies,20.98,normal
+PROD-0087,Home & Kitchen,15.61,elevated
+PROD-0088,Toys & Games,13.42,normal
+PROD-0089,Home & Kitchen,10.72,elevated
+PROD-0090,Beauty,30.85,elevated
+PROD-0091,Pet Supplies,13.48,elevated
+PROD-0092,Office Supplies,82.3,normal
+PROD-0093,Home & Kitchen,11.63,normal
+PROD-0094,Office Supplies,7.6,normal
+PROD-0095,Pet Supplies,24.12,normal
+PROD-0096,Sports & Outdoors,3.93,normal
+PROD-0097,Home & Kitchen,2.81,normal
+PROD-0098,Office Supplies,43.04,normal
+PROD-0099,Toys & Games,25.77,elevated
+PROD-0100,Apparel,3.75,elevated
+PROD-0101,Apparel,26.62,normal
+PROD-0102,Electronics,18.87,elevated
+PROD-0103,Pet Supplies,6.23,normal
+PROD-0104,Toys & Games,47.38,normal
+PROD-0105,Pet Supplies,96.22,normal
+PROD-0106,Office Supplies,138.72,normal
+PROD-0107,Beauty,32.92,normal
+PROD-0108,Electronics,25.03,normal
+PROD-0109,Pet Supplies,121.12,normal
+PROD-0110,Apparel,30.79,elevated
+PROD-0111,Apparel,18.05,elevated
+PROD-0112,Electronics,13.59,elevated
+PROD-0113,Toys & Games,40.38,normal
+PROD-0114,Sports & Outdoors,5.62,normal
+PROD-0115,Home & Kitchen,69.66,normal
+PROD-0116,Office Supplies,7.02,normal
+PROD-0117,Pet Supplies,11.44,elevated
+PROD-0118,Office Supplies,32.4,normal
+PROD-0119,Sports & Outdoors,118.04,elevated
+PROD-0120,Sports & Outdoors,19.26,normal
+PROD-0121,Pet Supplies,9.53,normal
+PROD-0122,Sports & Outdoors,64.12,normal
+PROD-0123,Office Supplies,16.5,normal
+PROD-0124,Pet Supplies,5.41,normal
+PROD-0125,Toys & Games,42.33,normal
+PROD-0126,Sports & Outdoors,20.09,normal
+PROD-0127,Home & Kitchen,19.7,normal
+PROD-0128,Beauty,47.62,normal
+PROD-0129,Electronics,51.67,normal
+PROD-0130,Pet Supplies,12.47,normal
+PROD-0131,Sports & Outdoors,27.39,normal
+PROD-0132,Sports & Outdoors,6.03,elevated
+PROD-0133,Electronics,19.46,normal
+PROD-0134,Pet Supplies,11.14,normal
+PROD-0135,Pet Supplies,20.3,normal
+PROD-0136,Office Supplies,16.97,normal
+PROD-0137,Office Supplies,20.83,normal
+PROD-0138,Pet Supplies,5.45,normal
+PROD-0139,Pet Supplies,7.49,normal
+PROD-0140,Electronics,20.18,normal
+PROD-0141,Office Supplies,94.16,normal
+PROD-0142,Office Supplies,47.41,normal
+PROD-0143,Beauty,36.26,normal
+PROD-0144,Apparel,14.35,elevated
+PROD-0145,Beauty,10.48,normal
+PROD-0146,Apparel,43.04,normal
+PROD-0147,Toys & Games,8.6,normal
+PROD-0148,Home & Kitchen,106.56,normal
+PROD-0149,Office Supplies,23.59,normal
+PROD-0150,Beauty,150.38,normal

@@ -1,0 +1,12 @@
+{
+  "feedback_interactions": 120000,
+  "customers": 8000,
+  "products": 150,
+  "orders": 168000,
+  "priority_distribution": {
+    "Medium": 58664,
+    "High": 49075,
+    "Low": 11745,
+    "Critical": 516
+  }
+}

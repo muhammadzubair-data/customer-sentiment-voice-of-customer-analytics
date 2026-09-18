@@ -1,0 +1,2 @@
+theme,baseline_share_pct,recent_7d_share_pct,pct_change,z_score,severity,message
+Payment Issues (Double Charge),0.71,7.45,954.2,9.88,Critical,"Emerging Issue Detected: Payment Issues (Double Charge) complaints rose from a baseline of 0.71% to 7.45% of feedback over the last 7 days (+954%, z=9.9)."
